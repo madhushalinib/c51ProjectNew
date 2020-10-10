@@ -1,0 +1,17 @@
+.header{
+    display:flex;
+    background-color: aqua;
+    justify-content:space-around;
+}
+*{
+    background-color: #808080;
+}
+.menu{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+ 
+    
+}
